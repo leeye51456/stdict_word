@@ -1,0 +1,51 @@
+[
+	{
+		"word": "수침",
+		"num": "01",
+		"origin": "水沈",
+		"pos": "명사",
+		"definition": "물에 가라앉음."
+	},
+	{
+		"word": "수침",
+		"num": "02",
+		"origin": "水浸",
+		"pos": "명사",
+		"definition": "「1」물에 담금. 「2」물에 젖거나 잠김."
+	},
+	{
+		"word": "수침",
+		"num": "03",
+		"origin": "受鍼",
+		"pos": "명사",
+		"definition": "침을 맞음."
+	},
+	{
+		"word": "수침",
+		"num": "04",
+		"origin": "垂針",
+		"pos": "명사",
+		"definition": "인당(印堂)의 가운데 수직으로 나타난 금."
+	},
+	{
+		"word": "수침",
+		"num": "05",
+		"origin": "睡寢",
+		"pos": "명사",
+		"definition": "→ 수면07."
+	},
+	{
+		"word": "수침",
+		"num": "06",
+		"origin": "繡枕",
+		"pos": "명사",
+		"definition": "수를 놓은 베개."
+	},
+	{
+		"word": "수침",
+		"num": "07",
+		"origin": "繡針",
+		"pos": "명사",
+		"definition": "수를 놓을 때 쓰는 바늘."
+	}
+]

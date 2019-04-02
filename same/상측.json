@@ -1,0 +1,23 @@
+[
+	{
+		"word": "상측",
+		"num": "01",
+		"origin": "上側",
+		"pos": "명사",
+		"definition": "위가 되는 쪽."
+	},
+	{
+		"word": "상측",
+		"num": "02",
+		"origin": "喪側",
+		"pos": "명사",
+		"definition": "시체가 있는 곁."
+	},
+	{
+		"word": "상측",
+		"num": "03",
+		"origin": "傷惻",
+		"pos": "없음",
+		"definition": "‘상측하다’의 어근."
+	}
+]

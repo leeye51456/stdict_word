@@ -1,0 +1,58 @@
+[
+	{
+		"word": "선연",
+		"num": "01",
+		"origin": "仙緣",
+		"pos": "명사",
+		"definition": "신선과의 인연."
+	},
+	{
+		"word": "선연",
+		"num": "02",
+		"origin": "洒然",
+		"pos": "명사",
+		"definition": "놀라는 모양."
+	},
+	{
+		"word": "선연",
+		"num": "03",
+		"origin": "船緣",
+		"pos": "명사",
+		"definition": "배의 양쪽 가장자리 부분."
+	},
+	{
+		"word": "선연",
+		"num": "04",
+		"origin": "善緣",
+		"pos": "명사",
+		"definition": "좋은 인연."
+	},
+	{
+		"word": "선연",
+		"num": "05",
+		"origin": "嬋姸",
+		"pos": "없음",
+		"definition": "‘선연하다01’의 어근."
+	},
+	{
+		"word": "선연",
+		"num": "06",
+		"origin": "嬋娟",
+		"pos": "없음",
+		"definition": "‘선연하다02’의 어근."
+	},
+	{
+		"word": "선연",
+		"num": "07",
+		"origin": "鮮姸",
+		"pos": "없음",
+		"definition": "‘선연하다03’의 어근."
+	},
+	{
+		"word": "선연",
+		"num": "08",
+		"origin": "鮮然",
+		"pos": "없음",
+		"definition": "‘선연하다04’의 어근."
+	}
+]

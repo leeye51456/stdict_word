@@ -1,0 +1,10 @@
+{
+	"word": "판별-식",
+	"num": "",
+	"origin": "判別式",
+	"pronunciation": "판별식",
+	"conjugation": "판별식만[판별싱만]",
+	"relation": "",
+	"pos": "명사",
+	"definition": "이차 방정식의 근의 종류를 알아내기 위한 식. 이차 방정식 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=ax%5E2%2Bbx%2Bc%28a%5Cneq+0%29'>에서 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=b%5E2-4ac'>를 가리키며, 기호 <I>‘D’</I>로 표시한다. <I>D>0</I>이면 서로 다른 두 개의 실근을, <I>D<0</I>이면 서로 다른 두 개의 허근을, <I>D＝0</I>이면 중근을 가진다."
+}

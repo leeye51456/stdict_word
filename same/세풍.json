@@ -1,0 +1,23 @@
+[
+	{
+		"word": "세풍",
+		"num": "01",
+		"origin": "世風",
+		"pos": "명사",
+		"definition": "세상의 풍조."
+	},
+	{
+		"word": "세풍",
+		"num": "02",
+		"origin": "細風",
+		"pos": "명사",
+		"definition": "약하게 부는 바람."
+	},
+	{
+		"word": "세풍",
+		"num": "03",
+		"origin": "歲豐",
+		"pos": "명사",
+		"definition": "풍년이 듦."
+	}
+]

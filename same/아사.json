@@ -1,0 +1,37 @@
+[
+	{
+		"word": "아사",
+		"num": "01",
+		"origin": "亞使",
+		"pos": "명사",
+		"definition": "정사(正使)를 돕던 버금 사신."
+	},
+	{
+		"word": "아사",
+		"num": "02",
+		"origin": "雅士",
+		"pos": "명사",
+		"definition": "바르고 깨끗한 선비."
+	},
+	{
+		"word": "아사",
+		"num": "03",
+		"origin": "雅事",
+		"pos": "명사",
+		"definition": "아치(雅致) 있는 일."
+	},
+	{
+		"word": "아사",
+		"num": "04",
+		"origin": "衙舍",
+		"pos": "명사",
+		"definition": "관아의 건물."
+	},
+	{
+		"word": "아사",
+		"num": "05",
+		"origin": "餓死",
+		"pos": "명사",
+		"definition": "굶어 죽음."
+	}
+]

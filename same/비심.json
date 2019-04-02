@@ -1,0 +1,23 @@
+[
+	{
+		"word": "비심",
+		"num": "01",
+		"origin": "非心",
+		"pos": "명사",
+		"definition": "나쁜 마음."
+	},
+	{
+		"word": "비심",
+		"num": "02",
+		"origin": "悲心",
+		"pos": "명사",
+		"definition": "슬픈 마음."
+	},
+	{
+		"word": "비심",
+		"num": "03",
+		"origin": "費心",
+		"pos": "명사",
+		"definition": "힘들여 마음을 씀."
+	}
+]

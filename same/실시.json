@@ -1,0 +1,23 @@
+[
+	{
+		"word": "실시",
+		"num": "01",
+		"origin": "失恃",
+		"pos": "명사",
+		"definition": "어머니를 여읨."
+	},
+	{
+		"word": "실시",
+		"num": "02",
+		"origin": "失時",
+		"pos": "명사",
+		"definition": "때를 놓침."
+	},
+	{
+		"word": "실시",
+		"num": "03",
+		"origin": "實施",
+		"pos": "명사",
+		"definition": "실제로 시행함."
+	}
+]

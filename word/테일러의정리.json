@@ -1,0 +1,10 @@
+{
+	"word": "테일러의^정리",
+	"num": "",
+	"origin": "Taylor의定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "함수 <I>f(x)</I>가 독립 변수인 어떤 값 <I>a</I>의 근방에서 <I>n</I>차까지의 도함수를 가질 때, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%28x%29%3Df%28a%29%5Cplus+f%27%28a%29%28x-a%29+%5Cplus+%5Cfrac%7Bf%27%27%28a%29%28x-a%29%5E%7B2%7D%7D%7B2%21%7D+%5Cplus+%5Ccdots+%5Cplus+%5Cfrac%7Bf%5E%7B%28n-1%29%7D%28a%29%28x-a%29%5E%7B%28n-1%29%7D%7D%7B%28n-1%29%21%7D+%5Cplus+%5Cfrac%7Bf%5E%7Bn%7D%28c%29%28x-a%29%5E%7Bn%7D%7D%7Bn%21%7D'>인 <I>c</I>가 <I>a</I>와 <I>x</I> 사이에 존재한다는 정리."
+}

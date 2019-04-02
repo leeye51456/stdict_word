@@ -1,0 +1,30 @@
+[
+	{
+		"word": "상찬",
+		"num": "01",
+		"origin": "上饌",
+		"pos": "명사",
+		"definition": "매우 좋은 반찬."
+	},
+	{
+		"word": "상찬",
+		"num": "02",
+		"origin": "常餐",
+		"pos": "명사",
+		"definition": "늘 먹는 식사."
+	},
+	{
+		"word": "상찬",
+		"num": "03",
+		"origin": "常饌",
+		"pos": "명사",
+		"definition": "늘 먹는 반찬."
+	},
+	{
+		"word": "상찬",
+		"num": "04",
+		"origin": "賞讚",
+		"pos": "명사",
+		"definition": "기리어 칭찬함."
+	}
+]

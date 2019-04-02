@@ -1,0 +1,37 @@
+[
+	{
+		"word": "실명",
+		"num": "01",
+		"origin": "",
+		"pos": "명사",
+		"definition": "→ 신명01."
+	},
+	{
+		"word": "실명",
+		"num": "02",
+		"origin": "失名",
+		"pos": "명사",
+		"definition": "이름이 전하지 아니하여 알 길이 없게 됨."
+	},
+	{
+		"word": "실명",
+		"num": "03",
+		"origin": "失命",
+		"pos": "명사",
+		"definition": "목숨을 잃음."
+	},
+	{
+		"word": "실명",
+		"num": "04",
+		"origin": "失明",
+		"pos": "명사",
+		"definition": "시력을 잃어 앞을 못 보게 됨."
+	},
+	{
+		"word": "실명",
+		"num": "05",
+		"origin": "實名",
+		"pos": "명사",
+		"definition": "실제의 이름."
+	}
+]

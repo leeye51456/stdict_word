@@ -1,0 +1,37 @@
+[
+	{
+		"word": "용무",
+		"num": "01",
+		"origin": "宂務",
+		"pos": "명사",
+		"definition": "중요하지 아니하거나 필요하지 아니한 사무."
+	},
+	{
+		"word": "용무",
+		"num": "02",
+		"origin": "用武",
+		"pos": "명사",
+		"definition": "군사를 부림."
+	},
+	{
+		"word": "용무",
+		"num": "03",
+		"origin": "用務",
+		"pos": "명사",
+		"definition": "해야 할 일."
+	},
+	{
+		"word": "용무",
+		"num": "04",
+		"origin": "勇武",
+		"pos": "없음",
+		"definition": "‘용무하다02’의 어근."
+	},
+	{
+		"word": "용무",
+		"num": "05",
+		"origin": "茸茂",
+		"pos": "명사",
+		"definition": "초목이 우거짐."
+	}
+]

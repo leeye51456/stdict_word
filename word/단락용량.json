@@ -1,0 +1,10 @@
+{
+	"word": "단락^용량",
+	"num": "",
+	"origin": "短絡容量",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "전력 시스템에서의 삼상 단락 사고 시 고장점에 유입하였을 때, 계통이 장애를 입지 않는 최대 가상 전력. 수식으로는 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Csqrt%7B3%7D'>×<I>V</I> (정격 선전압)×<I>I</I> (단락 전류)로 표시하며, 계통 각 부분에 흐르는 전류를 계통 전압에 곱하여 엠브이에이(MVA)로 나타낸다."
+}

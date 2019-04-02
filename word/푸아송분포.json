@@ -1,0 +1,10 @@
+{
+	"word": "푸아송^분포",
+	"num": "",
+	"origin": "Poisson分布",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "매우 드물게 일어나는 사건을 나타내는 분포. <I>k=0, 1, 2,……</I>의 값이 나타내는 확률이 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%28%5Ctheta+%5E%7B-%5Clambda+%7D%5Clambda+%5E%7Bk%7D%29%2Fk%21'>로 주어지는 분포로, 프랑스의 푸아송이 제창하였다."
+}

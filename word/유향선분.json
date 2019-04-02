@@ -1,0 +1,10 @@
+{
+	"word": "유향-선분",
+	"num": "",
+	"origin": "有向線分",
+	"pronunciation": "유ː향선분",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "길이만이 아니라 방향도 가지고 있는 선분. 선분 <I>AB</I>에서, <I>A</I>에서 <I>B</I>의 방향으로의 유향선분 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cunderset%7BAB%7D%7B%5Crightarrow%7D'>와 <I>B</I>에서 <I>A</I>로의 유향선분 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cunderset%7BBA%7D%7B%5Crightarrow%7D'>는 다른 것으로 생각한다."
+}

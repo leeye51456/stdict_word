@@ -1,0 +1,30 @@
+[
+	{
+		"word": "적당",
+		"num": "01",
+		"origin": "的當",
+		"pos": "명사",
+		"definition": "꼭 들어맞음."
+	},
+	{
+		"word": "적당",
+		"num": "02",
+		"origin": "賊黨",
+		"pos": "명사",
+		"definition": "도둑의 무리."
+	},
+	{
+		"word": "적당",
+		"num": "03",
+		"origin": "敵黨",
+		"pos": "명사",
+		"definition": "적의 무리."
+	},
+	{
+		"word": "적당",
+		"num": "04",
+		"origin": "適當",
+		"pos": "없음",
+		"definition": "‘적당하다02’의 어근."
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"word": "불-연속",
+	"num": "",
+	"origin": "不連續",
+	"pronunciation": "부련속",
+	"conjugation": "불연속만[부련송만]",
+	"relation": "불연속-적",
+	"pos": "명사",
+	"definition": "「1」죽 이어져 있지 않고 중간중간에 끊어져 있음.\n「2」함수 <I>f(x)</I>의 정의구역 안의 점 <I>x=a</I>에서 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Clim_%7Bxn+%5Cto+%5Cinfty+0%7Df%28x%29'>가 존재하지 않거나 존재하더라도 그 극한값이 <I>f(a)</I>와 같지 않은 일."
+}

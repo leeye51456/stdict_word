@@ -1,0 +1,37 @@
+[
+	{
+		"word": "계유",
+		"num": "01",
+		"origin": "戒喩",
+		"pos": "명사",
+		"definition": "경계하여 타이름."
+	},
+	{
+		"word": "계유",
+		"num": "02",
+		"origin": "癸酉",
+		"pos": "명사",
+		"definition": "육십갑자의 열째."
+	},
+	{
+		"word": "계유",
+		"num": "03",
+		"origin": "啓喩",
+		"pos": "명사",
+		"definition": "깨우쳐서 알게 함."
+	},
+	{
+		"word": "계유",
+		"num": "04",
+		"origin": "啓誘",
+		"pos": "명사",
+		"definition": "깨우쳐 알도록 이끌어 줌."
+	},
+	{
+		"word": "계유",
+		"num": "05",
+		"origin": "鷄油",
+		"pos": "명사",
+		"definition": "닭에서 짜낸 기름."
+	}
+]

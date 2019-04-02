@@ -1,0 +1,51 @@
+[
+	{
+		"word": "현사",
+		"num": "01",
+		"origin": "現事",
+		"pos": "명사",
+		"definition": "현재의 일."
+	},
+	{
+		"word": "현사",
+		"num": "02",
+		"origin": "賢士",
+		"pos": "명사",
+		"definition": "어진 선비."
+	},
+	{
+		"word": "현사",
+		"num": "03",
+		"origin": "賢師",
+		"pos": "명사",
+		"definition": "어진 스승."
+	},
+	{
+		"word": "현사",
+		"num": "04",
+		"origin": "縣舍",
+		"pos": "명사",
+		"definition": "호장(戶長)이 사무를 보던 곳."
+	},
+	{
+		"word": "현사",
+		"num": "05",
+		"origin": "懸師",
+		"pos": "명사",
+		"definition": "멀리 나가 있는 군대. 또는 군대를 밖에 주둔시킴."
+	},
+	{
+		"word": "현사",
+		"num": "06",
+		"origin": "顯士",
+		"pos": "명사",
+		"definition": "이름이 들날린 선비."
+	},
+	{
+		"word": "현사",
+		"num": "07",
+		"origin": "顯仕",
+		"pos": "명사",
+		"definition": "높은 벼슬."
+	}
+]

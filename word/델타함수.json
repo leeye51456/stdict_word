@@ -1,0 +1,10 @@
+{
+	"word": "델타^함수",
+	"num": "",
+	"origin": "delta函數",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "영국의 이론 물리학자 디랙(Dirac, P. A. M.)이 도입한 함수. 임의의 연속 함수 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%28x%29'>에 대하여 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cint_%7B-%5Cinfty+%7D%5E%7B%5Cinfty+%7D%5Cdelta+%28x%29f%28x%29dx%3Df%280%29'>을 성립시키며, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cdelta+%5Cleft+%28+x+%5Cright+%29'>로 나타낸다."
+}

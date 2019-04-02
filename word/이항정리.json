@@ -1,0 +1,10 @@
+{
+	"word": "이항^정리",
+	"num": "",
+	"origin": "二項定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "이항식의 거듭제곱을 전개하는 법을 보이는 공식. <i>(a+b)<sup style='font-size:11px;'>2</sup>=a<sup style='font-size:11px;'>2</sup>+2ab+b<sup style='font-size:11px;'>2</sup>, (a+b)<sup style='font-size:11px;'>3</sup>=a<sup style='font-size:11px;'>3</sup>+3a<sup style='font-size:11px;'>2</sup>b+3ab<sup style='font-size:11px;'>2</sup>+b<sup style='font-size:11px;'>3</sup></i> 따위가 있다."
+}

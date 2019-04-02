@@ -1,0 +1,10 @@
+{
+	"word": "유클리드^공간",
+	"num": "",
+	"origin": "Euclid空間",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "유클리드 기하학의 연구 대상이 되는 공간. <I>n</I> 차원 유클리드 공간의 점은 <I>n</I>개의 실수의 순서쌍으로 표현할 수 있고, 이때 두 점 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=A%5Cleft%28a_%7B1%7D%2C+a_%7B2%7D%2C+%5Ccdots+a_%7Bn%7D+%5Cright%29'>와 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=B%5Cleft%28b_%7B1%7D%2C+b_%7B2%7D%2C+%5Ccdots+b_%7Bn%7D%5Cright%29'>의 거리는 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Csqrt%7B%28a_%7B1%7D-b_%7B1%7D%29%5E%7B2%7D%2B%28a_%7B2%7D-b_%7B2%7D%29%5E%7B2%7D%2B%5Ccdots%28a_%7Bn%7D-b_%7Bn%7D%29%5E%7B2%7D%7D'>으로 정의된다."
+}

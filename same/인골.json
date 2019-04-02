@@ -1,0 +1,23 @@
+[
+	{
+		"word": "인-골",
+		"num": "01",
+		"origin": "人골",
+		"pos": "명사",
+		"definition": "→ 인두겁."
+	},
+	{
+		"word": "인골",
+		"num": "02",
+		"origin": "人骨",
+		"pos": "명사",
+		"definition": "사람의 뼈."
+	},
+	{
+		"word": "인골",
+		"num": "03",
+		"origin": "in-goal",
+		"pos": "명사",
+		"definition": "풋볼에서, 경기장의 골라인 바깥의 직사각형 지역을 이르는 말."
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"word": "쌍곡선^탄젠트^함수",
+	"num": "",
+	"origin": "雙曲線tangent函數",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "쌍곡선 사인 함수를 쌍곡선 코사인 함수로 나누어서 만든 함수. 곧, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=tan+hx%3Dsin+hx%2Fcos+hx%3D%28%5Ctheta+%5E%7Bx%7D-%5Ctheta+%5E%7B-x%7D%29%2F%28%5Ctheta+%5E%7Bx%7D%2B%5Ctheta+%5E%7B-x%7D%29'>로 정의되는 함수이다."
+}

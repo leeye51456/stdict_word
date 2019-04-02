@@ -1,0 +1,30 @@
+[
+	{
+		"word": "조추",
+		"num": "01",
+		"origin": "",
+		"pos": "부사",
+		"definition": "차차 나중에."
+	},
+	{
+		"word": "조추",
+		"num": "02",
+		"origin": "",
+		"pos": "명사",
+		"definition": "→ 조치01."
+	},
+	{
+		"word": "조추",
+		"num": "03",
+		"origin": "早秋",
+		"pos": "명사",
+		"definition": "이른 가을."
+	},
+	{
+		"word": "조추",
+		"num": "04",
+		"origin": "肇秋",
+		"pos": "명사",
+		"definition": "이른 가을. 주로 음력 7월을 이른다."
+	}
+]

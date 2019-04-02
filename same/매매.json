@@ -1,0 +1,44 @@
+[
+	{
+		"word": "매-매",
+		"num": "01",
+		"origin": "",
+		"pos": "부사",
+		"definition": "지나칠 정도로 몹시 심하게."
+	},
+	{
+		"word": "매-매",
+		"num": "02",
+		"origin": "",
+		"pos": "부사",
+		"definition": "염소나 양 따위가 잇따라 우는 소리."
+	},
+	{
+		"word": "매매",
+		"num": "03",
+		"origin": "每每",
+		"pos": "부사",
+		"definition": "매 때마다."
+	},
+	{
+		"word": "매매",
+		"num": "04",
+		"origin": "昧昧",
+		"pos": "없음",
+		"definition": "‘매매하다01’의 어근."
+	},
+	{
+		"word": "매매",
+		"num": "05",
+		"origin": "浼浼",
+		"pos": "없음",
+		"definition": "‘매매하다02’의 어근."
+	},
+	{
+		"word": "매매",
+		"num": "06",
+		"origin": "賣買",
+		"pos": "명사",
+		"definition": "물건을 팔고 사는 일."
+	}
+]

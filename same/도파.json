@@ -1,0 +1,37 @@
+[
+	{
+		"word": "도파",
+		"num": "01",
+		"origin": "刀把/刀欛",
+		"pos": "명사",
+		"definition": "칼을 안전하게 쥐게 만든 부분."
+	},
+	{
+		"word": "도파",
+		"num": "02",
+		"origin": "道破",
+		"pos": "명사",
+		"definition": "끝까지 다 말함. 또는 딱 잘라 말함."
+	},
+	{
+		"word": "도파",
+		"num": "03",
+		"origin": "蹈破",
+		"pos": "명사",
+		"definition": "「1」발로 밟음. 「2」험한 길이나 먼 길을 끝까지 걸어서 돌파함."
+	},
+	{
+		"word": "도파",
+		"num": "04",
+		"origin": "濤波",
+		"pos": "명사",
+		"definition": "바다에 이는 물결."
+	},
+	{
+		"word": "도파",
+		"num": "05",
+		"origin": "DOPA",
+		"pos": "명사",
+		"definition": "뇌, 부신 겉질 따위에서 만들어지는 도파민(dopamine)의 선구물질. 다이하이드록시페닐알라닌(dihydroxyphenylalanine)의 약자이다."
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"word": "홈",
+		"num": "01",
+		"origin": "",
+		"pos": "명사",
+		"definition": "물체에 오목하고 길게 팬 줄."
+	},
+	{
+		"word": "홈",
+		"num": "02",
+		"origin": "←platform",
+		"pos": "명사",
+		"definition": "→ 플랫폼."
+	},
+	{
+		"word": "홈",
+		"num": "03",
+		"origin": "home",
+		"pos": "명사",
+		"definition": "야구에서, 포수가 있는 자리."
+	}
+]

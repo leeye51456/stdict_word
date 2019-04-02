@@ -1,0 +1,30 @@
+[
+	{
+		"word": "기곡",
+		"num": "01",
+		"origin": "技曲",
+		"pos": "명사",
+		"definition": "곡예의 기술."
+	},
+	{
+		"word": "기곡",
+		"num": "02",
+		"origin": "奇曲",
+		"pos": "명사",
+		"definition": "진기한 악곡."
+	},
+	{
+		"word": "기곡",
+		"num": "03",
+		"origin": "祈穀",
+		"pos": "명사",
+		"definition": "농사가 잘되기를 기원함."
+	},
+	{
+		"word": "기곡",
+		"num": "04",
+		"origin": "綺縠",
+		"pos": "명사",
+		"definition": "무늬가 있는 얇고 고운 명주."
+	}
+]

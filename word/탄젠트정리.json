@@ -1,0 +1,10 @@
+{
+	"word": "탄젠트^정리",
+	"num": "",
+	"origin": "tangent定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "삼각형에서 각 꼭짓점 <I>A, B, C</I>의 대변을 각각 <I>a, b, c</I>라 할 때에,<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=tan%5Cfrac%7BB-C%7D%7B2%7D%3D%5Cfrac%7Bb-c%7D%7Bb%2Bc%7Dcot%5Cfrac%7BA%7D%7B2%7D'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=tan%5Cfrac%7BC-A%7D%7B2%7D%3D%5Cfrac%7Bc-a%7D%7Bc%2Ba%7Dcot%5Cfrac%7BB%7D%7B2%7D'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=tan%5Cfrac%7BA-B%7D%7B2%7D%3D%5Cfrac%7Ba-b%7D%7Ba%2Bb%7Dcot%5Cfrac%7BC%7D%7B2%7D'>가 성립한다는 법칙."
+}

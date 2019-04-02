@@ -1,0 +1,10 @@
+{
+	"word": "성분^표시",
+	"num": "",
+	"origin": "成分表示",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "벡터의 성분을 기호로 나타내는 일. <I>O</I>를 원점으로 하는 평면상의 임의의 벡터 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cunderset%7Ba%7D%7B%5Crightarrow%7D'>에 대하여 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cunderset%7Ba%7D%7B%5Crightarrow%7D%3D%5Cunderset%7BOF%7D%7B%5Crightarrow%7D'>가 되는 점 <I>P</I>를 취하였을 때, <I>P</I>의 좌표가 <I>(x, y)</I>이면 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cunderset%7Ba%7D%7B%5Crightarrow%7D'><I>=(x,y)</I>로 나타낸다."
+}

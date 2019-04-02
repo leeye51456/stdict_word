@@ -1,0 +1,16 @@
+[
+	{
+		"word": "펜스",
+		"num": "01",
+		"origin": "fence",
+		"pos": "명사",
+		"definition": "야구장에서, 필드를 둘러싼 울타리."
+	},
+	{
+		"word": "펜스",
+		"num": "02",
+		"origin": "pence",
+		"pos": "의존 명사",
+		"definition": "영국의 화폐 단위. 페니(penny)의 복수형이다."
+	}
+]

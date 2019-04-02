@@ -1,0 +1,30 @@
+[
+	{
+		"word": "전황",
+		"num": "01",
+		"origin": "田荒",
+		"pos": "명사",
+		"definition": "논밭이 황폐하는 일."
+	},
+	{
+		"word": "전황",
+		"num": "02",
+		"origin": "戰況",
+		"pos": "명사",
+		"definition": "전쟁의 실제 상황."
+	},
+	{
+		"word": "전황",
+		"num": "03",
+		"origin": "戰惶",
+		"pos": "명사",
+		"definition": "두려워서 떪."
+	},
+	{
+		"word": "전황",
+		"num": "04",
+		"origin": "錢荒",
+		"pos": "명사",
+		"definition": "돈이 잘 융통되지 아니하여 귀함."
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"word": "수회",
+		"num": "01",
+		"origin": "水灰",
+		"pos": "명사",
+		"definition": "물에 녹인 재."
+	},
+	{
+		"word": "수회",
+		"num": "02",
+		"origin": "水繪",
+		"pos": "명사",
+		"definition": "서양화에서, 물감을 물에 풀어서 그린 그림."
+	},
+	{
+		"word": "수회",
+		"num": "03",
+		"origin": "收賄",
+		"pos": "명사",
+		"definition": "뇌물을 받음."
+	},
+	{
+		"word": "수회",
+		"num": "04",
+		"origin": "羞悔",
+		"pos": "명사",
+		"definition": "부끄러워하여 뉘우침."
+	},
+	{
+		"word": "수회",
+		"num": "05",
+		"origin": "愁懷",
+		"pos": "명사",
+		"definition": "마음속에 깊이 새겨진 근심."
+	},
+	{
+		"word": "수회",
+		"num": "06",
+		"origin": "綏懷",
+		"pos": "명사",
+		"definition": "평안하게 하여 따르게 함."
+	},
+	{
+		"word": "수회",
+		"num": "07",
+		"origin": "數回",
+		"pos": "명사",
+		"definition": "두서너 번. 또는 여러 번."
+	}
+]

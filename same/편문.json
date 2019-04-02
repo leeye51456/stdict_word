@@ -1,0 +1,30 @@
+[
+	{
+		"word": "편문",
+		"num": "01",
+		"origin": "片紋",
+		"pos": "명사",
+		"definition": "조각 무늬."
+	},
+	{
+		"word": "편문",
+		"num": "02",
+		"origin": "片聞",
+		"pos": "명사",
+		"definition": "한쪽 편의 말만 들음."
+	},
+	{
+		"word": "편문",
+		"num": "03",
+		"origin": "便門",
+		"pos": "명사",
+		"definition": "드나들기 편한 곳에 낸 문."
+	},
+	{
+		"word": "편문",
+		"num": "04",
+		"origin": "偏門",
+		"pos": "명사",
+		"definition": "정문에 딸린 옆문."
+	}
+]

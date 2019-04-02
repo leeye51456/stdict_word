@@ -1,0 +1,23 @@
+[
+	{
+		"word": "하옥",
+		"num": "01",
+		"origin": "下獄",
+		"pos": "명사",
+		"definition": "죄인을 옥에 가둠."
+	},
+	{
+		"word": "하옥",
+		"num": "02",
+		"origin": "荷屋",
+		"pos": "명사",
+		"definition": "‘김좌근’의 호."
+	},
+	{
+		"word": "하옥",
+		"num": "03",
+		"origin": "廈屋",
+		"pos": "명사",
+		"definition": "큰 집."
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"word": "제신",
+		"num": "01",
+		"origin": "帝宸",
+		"pos": "명사",
+		"definition": "제왕의 궁전."
+	},
+	{
+		"word": "제신",
+		"num": "02",
+		"origin": "祭臣",
+		"pos": "명사",
+		"definition": "제사를 모시는 신하."
+	},
+	{
+		"word": "제신",
+		"num": "03",
+		"origin": "祭神",
+		"pos": "명사",
+		"definition": "제사로 모시는 신."
+	},
+	{
+		"word": "제신",
+		"num": "04",
+		"origin": "諸臣",
+		"pos": "명사",
+		"definition": "여러 신하."
+	},
+	{
+		"word": "제신",
+		"num": "05",
+		"origin": "諸神",
+		"pos": "명사",
+		"definition": "여러 신."
+	}
+]

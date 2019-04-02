@@ -1,0 +1,10 @@
+{
+	"word": "디터미넌트",
+	"num": "",
+	"origin": "determinant",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "행렬의 각 원소가 일정한 계산법에 따라 전개된 식 또는 수. <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=n%5E%7B2%7D'>개의 수를 <I>n</I>행 <I>n</I>열로 배열하고, 각 행과 열에서 원소를 한 개씩 빼내어 만든 상승곱을 일정한 규칙에 따라 합한 것이다."
+}

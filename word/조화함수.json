@@ -1,0 +1,10 @@
+{
+	"word": "조화^함수",
+	"num": "",
+	"origin": "調和函數",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "함수의 하나. 라플라스의 미분 방정식 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5CDelta+u%3D%5Cpartial+%5E2u%2F%5Cpartial+x%5E2%2B%5Cpartial+%5E2u%2F%5Cpartial+y%5E2%3D0'>을 만족시키는 <I>x, y</I>의 함수 <I>u</I>를 이른다."
+}

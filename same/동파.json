@@ -1,0 +1,30 @@
+[
+	{
+		"word": "동파",
+		"num": "01",
+		"origin": "",
+		"pos": "명사",
+		"definition": "→ 움파."
+	},
+	{
+		"word": "동파",
+		"num": "02",
+		"origin": "同派",
+		"pos": "명사",
+		"definition": "「1」같은 파. 「2」그 파."
+	},
+	{
+		"word": "동파",
+		"num": "03",
+		"origin": "東坡",
+		"pos": "명사",
+		"definition": "‘소식10’의 호."
+	},
+	{
+		"word": "동파",
+		"num": "04",
+		"origin": "凍破",
+		"pos": "명사",
+		"definition": "얼어서 터짐."
+	}
+]

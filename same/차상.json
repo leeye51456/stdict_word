@@ -1,0 +1,44 @@
+[
+	{
+		"word": "차-상",
+		"num": "01",
+		"origin": "차床",
+		"pos": "명사",
+		"definition": "→ 찻상."
+	},
+	{
+		"word": "차상",
+		"num": "02",
+		"origin": "叉狀",
+		"pos": "명사",
+		"definition": "서로 엇걸려 있는 모양."
+	},
+	{
+		"word": "차상",
+		"num": "03",
+		"origin": "次上",
+		"pos": "명사",
+		"definition": "시문을 평가하는 등급 가운데 넷째 등의 첫째 급."
+	},
+	{
+		"word": "차상",
+		"num": "04",
+		"origin": "車上",
+		"pos": "명사",
+		"definition": "차의 위."
+	},
+	{
+		"word": "차상",
+		"num": "05",
+		"origin": "嗟傷",
+		"pos": "명사",
+		"definition": "한탄하며 슬퍼함."
+	},
+	{
+		"word": "차상",
+		"num": "06",
+		"origin": "嗟賞",
+		"pos": "명사",
+		"definition": "깊이 감동하거나 감탄하여 칭찬함."
+	}
+]

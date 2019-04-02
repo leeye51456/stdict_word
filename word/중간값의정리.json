@@ -1,0 +1,10 @@
+{
+	"word": "중간값의^정리",
+	"num": "",
+	"origin": "中間값의定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "함수 <I>f(x)</I>가 구간 <I>a ≤ x ≤ b</I>에서 연속이면, <I>f(a)</I>와 <I>f(b)</I> 사이에 있는 모든 값 <I>α</I>에 대하여서도 <I>f(k)＝α</I>가 되는 <I>k</I>가 <I>a</I>와 <I>b</I> 사이에 존재한다는 정리."
+}

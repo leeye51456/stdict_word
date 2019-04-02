@@ -1,0 +1,30 @@
+[
+	{
+		"word": "소취",
+		"num": "01",
+		"origin": "小醉",
+		"pos": "명사",
+		"definition": "조금 취함."
+	},
+	{
+		"word": "소취",
+		"num": "02",
+		"origin": "所趣",
+		"pos": "명사",
+		"definition": "뜻하는 일."
+	},
+	{
+		"word": "소취",
+		"num": "03",
+		"origin": "消臭",
+		"pos": "명사",
+		"definition": "악취를 없앰."
+	},
+	{
+		"word": "소취",
+		"num": "04",
+		"origin": "嘯聚",
+		"pos": "명사",
+		"definition": "군호(軍號)로 많은 사람을 불러 모음."
+	}
+]

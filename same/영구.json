@@ -1,0 +1,44 @@
+[
+	{
+		"word": "영구",
+		"num": "01",
+		"origin": "永久",
+		"pos": "명사",
+		"definition": "어떤 상태가 시간상으로 무한히 이어짐."
+	},
+	{
+		"word": "영구",
+		"num": "02",
+		"origin": "營口",
+		"pos": "명사",
+		"definition": "→ 잉커우."
+	},
+	{
+		"word": "영구",
+		"num": "03",
+		"origin": "營救",
+		"pos": "명사",
+		"definition": "죄에 빠진 사람을 구하여 냄."
+	},
+	{
+		"word": "영구",
+		"num": "04",
+		"origin": "營構",
+		"pos": "명사",
+		"definition": "집이나 건물을 지음."
+	},
+	{
+		"word": "영구",
+		"num": "05",
+		"origin": "靈柩",
+		"pos": "명사",
+		"definition": "시체를 담은 관."
+	},
+	{
+		"word": "영구",
+		"num": "06",
+		"origin": "靈區",
+		"pos": "명사",
+		"definition": "신비한 지역."
+	}
+]

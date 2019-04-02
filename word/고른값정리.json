@@ -1,0 +1,10 @@
+{
+	"word": "고른값^정리",
+	"num": "",
+	"origin": "고른값定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "어떤 함수가 폐구간 <I>[a, b]</I>에서 연속이고 개구간 <I>(a, b)</I>에서 미분이 가능하면, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%28b%29-f%28a%29%2F%28b-c%29%3Df%5E1%28c%29'>, <I>a＜c＜b</I>를 만족하는 평균값 <I>c</I>가 적어도 하나는 있다는 정리. 또는 같은 조건에서 적분이 가능하면, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5C+_%7Ba%7D%5E%7Bb%7D+f%28x%29dx%3Df%28c%29%28b-c%29'>, <I>a＜c＜b</I>를 만족하는 평균값 <I>c</I>가 존재한다는 정리."
+}

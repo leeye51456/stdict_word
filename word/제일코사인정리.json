@@ -1,0 +1,10 @@
+{
+	"word": "제일^코사인^정리",
+	"num": "",
+	"origin": "第一cosine定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "삼각형의 꼭짓점 <I>A, B, C</I>의 대변을 각각 <I>a, b, c</I>라고 할 때, ‘<I>a=bcosC+ccosB, b=acosC+ccosA, c=acosB+bcosA</I>’라는 관계가 성립한다는 정리."
+}

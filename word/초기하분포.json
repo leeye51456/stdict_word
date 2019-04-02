@@ -1,0 +1,10 @@
+{
+	"word": "초기하^분포",
+	"num": "",
+	"origin": "超幾何分布",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=P_%7B%28k%29%7D%3D_%7Bm%7DC_%7Bk%7D%5Ctimes+_%7Bn-m%7DC_%7Br-k%7D%2F_%7Bn%7DC_%7Br%7D%28k%3D1%2C2%2C%5Ccdots%2Cr%29'>의 법칙을 따르는 확률 분포. 예를 들면, <I>n</I>개의 공 가운데 <I>m</I>개가 빨간 공이고 나머지 <I>n－m</I>개를 흰 공이라고 하고 임의로 <I>r</I>개의 공을 꺼낼 때, <I>k</I>개가 빨간 공이고 나머지 <I>r－k</I>개가 흰 공일 확률이 이 분포를 가진다."
+}

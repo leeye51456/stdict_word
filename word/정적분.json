@@ -1,0 +1,10 @@
+{
+	"word": "정-적분",
+	"num": "",
+	"origin": "定積分",
+	"pronunciation": "정ː적뿐",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "닫힌 구간 [<I>a, b</I>]에서 정의된 함수 <I>f(x)</I>에 대하여, 구간의 폭이 한없이 작게 되도록 분할할 때에 분할한 구간의 길이와 그 구간에서의 함숫값의 대푯값을 곱하여 합한 값이 항상 일정한 값에 한없이 가까워지게 될 때, 그 극한값을 이르는 말. <I>f(x)</I>의 <I>a</I>부터 <I>b</I>까지의 정적분은 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cint_%7Ba%7D%5E%7Bb%7Df%28x%29dx'>로 나타낸다."
+}

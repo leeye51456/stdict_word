@@ -1,0 +1,10 @@
+{
+	"word": "삼각^항등식",
+	"num": "",
+	"origin": "三角恒等式",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "삼각 함수가 들어 있는 항등식. <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=sin%5E%7B2%7Dx%2Bcos%5E%7B2%7Dx%3D1'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=sin%28x%2By%29%3Dsin+x+%5Ccdot+cos+y%2Bcos+x+%5Ccdot+sin+y'>따위가 있다."
+}

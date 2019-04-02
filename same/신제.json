@@ -1,0 +1,37 @@
+[
+	{
+		"word": "신제",
+		"num": "01",
+		"origin": "新制",
+		"pos": "명사",
+		"definition": "새로운 제도."
+	},
+	{
+		"word": "신제",
+		"num": "02",
+		"origin": "新帝",
+		"pos": "명사",
+		"definition": "새로 즉위한 황제."
+	},
+	{
+		"word": "신제",
+		"num": "03",
+		"origin": "新第",
+		"pos": "명사",
+		"definition": "새로 이사하여 든 집."
+	},
+	{
+		"word": "신제",
+		"num": "04",
+		"origin": "新製",
+		"pos": "명사",
+		"definition": "물건 따위를 새로 만듦. 또는 그런 물건."
+	},
+	{
+		"word": "신제",
+		"num": "05",
+		"origin": "新題",
+		"pos": "명사",
+		"definition": "새로 낸 과제(課題)."
+	}
+]

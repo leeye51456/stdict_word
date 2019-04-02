@@ -1,0 +1,23 @@
+[
+	{
+		"word": "미화",
+		"num": "01",
+		"origin": "美化",
+		"pos": "명사",
+		"definition": "아름답게 꾸밈."
+	},
+	{
+		"word": "미화",
+		"num": "02",
+		"origin": "美花",
+		"pos": "명사",
+		"definition": "아름다운 꽃."
+	},
+	{
+		"word": "미화",
+		"num": "03",
+		"origin": "美貨",
+		"pos": "명사",
+		"definition": "미국의 화폐."
+	}
+]

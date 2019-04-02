@@ -1,0 +1,10 @@
+{
+	"word": "사다리꼴^공식",
+	"num": "",
+	"origin": "사다리꼴公式",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "구간 <I>[a, b]</I>를 <I>n</I>등분하여 그 소구간의 길이를 <I>h</I>, 각 분점에서의 함숫값을 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=y%5E%7B0%7D%2Cy%5E%7B1%7D%2C%5Ccdots%2Cy%5E%7Bn%7D'>이라 하면, 그 함수의 <I>a</I>에서 <I>b</I>까지의 정적분은 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cleft+%5C%7B+%28y%5E%7B0%7D%2By%5E%7Bn%7D%29%2F2%2By%5E%7B1%7D%2By%5E%7B2%7D%2B%5Ccdots%2BY%5E%7Bn-1%7D+%5Cright+%5C%7Dh'>에 근사하다는 공식."
+}

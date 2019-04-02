@@ -1,0 +1,10 @@
+{
+	"word": "테일러-급수",
+	"num": "",
+	"origin": "Taylor級數",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "실변수의 실함수 <I>f(x)</I>가 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x%3Dx_%7B0%7D'>에서 몇 번이고 미분이 가능할 때, 멱급수 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Csum_%7Bn%3D0%7D%5E%7B%5Cinfty%7D+%5Cquad+%5Cfrac%7Bf%5E%7B%28n%29%7D%28x_%7B0%7D%29%7D%7Bn%21%7D+%28x-x_%7B0%7D%29%5E%7Bn%7D'>을 <I>f(x)</I>에 상대하여 이르는 말."
+}

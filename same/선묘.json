@@ -1,0 +1,37 @@
+[
+	{
+		"word": "선묘",
+		"num": "01",
+		"origin": "先墓",
+		"pos": "명사",
+		"definition": "조상의 무덤."
+	},
+	{
+		"word": "선묘",
+		"num": "02",
+		"origin": "善苗",
+		"pos": "명사",
+		"definition": "좋은 묘목. 또는 튼튼한 묘목."
+	},
+	{
+		"word": "선묘",
+		"num": "03",
+		"origin": "線描",
+		"pos": "명사",
+		"definition": "선(線)으로만 그림. 또는 그런 그림."
+	},
+	{
+		"word": "선묘",
+		"num": "04",
+		"origin": "選苗",
+		"pos": "명사",
+		"definition": "묘목을 고름."
+	},
+	{
+		"word": "선묘",
+		"num": "05",
+		"origin": "鮮妙",
+		"pos": "명사",
+		"definition": "곱고 묘함."
+	}
+]

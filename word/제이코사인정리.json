@@ -1,0 +1,10 @@
+{
+	"word": "제이^코사인^정리",
+	"num": "",
+	"origin": "第二cosine定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "삼각형의 꼭짓점 <I>A, B, C</I>의 대변을 각각 <I>a, b, c</I>라고 할 때, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=a%5E%7B2%7D%3Db%5E%7B2%7D%2Bc%5E%7B2%7D-2bc+cos+A'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=b%5E%7B2%7D%3Dc%5E%7B2%7D%2Ba%5E%7B2%7D-2ca+cos+B'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=c%5E%7B2%7D%3Da%5E%7B2%7D%2Bb%5E%7B2%7D-2ab+cos+C'>가 성립한다는 정리."
+}

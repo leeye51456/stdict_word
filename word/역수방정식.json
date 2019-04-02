@@ -1,0 +1,10 @@
+{
+	"word": "역수^방정식",
+	"num": "",
+	"origin": "逆數方程式",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "어떤 대수 방정식의 근의 역수를 근으로 가지는 대수 방정식을 원래의 방정식에 상대하여 이르는 말. 예를 들면 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x%5E%7B2%7D-3x%2B2%3D0'>의 근은 <I>x=2, 1</I>이고, 그 역수인 <I>1/2, 1</I>을 근으로 하는 상반 방정식은 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=2x%5E%7B2%7D-3x%2B1%3D0'>이다."
+}

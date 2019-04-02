@@ -1,0 +1,10 @@
+{
+	"word": "선형",
+	"num": "06",
+	"origin": "線型",
+	"pronunciation": "선형",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "일차의 대수식으로 나타내는 형태. 일차식 <I>ax+by</I>, 선형상 미분 방정식 <I>ay″+by'+cy=0</I>, 벡터의 일차 결합 <I>aX+bY+cZ</I> 따위가 있다."
+}

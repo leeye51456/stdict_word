@@ -1,0 +1,44 @@
+[
+	{
+		"word": "용부",
+		"num": "01",
+		"origin": "勇夫",
+		"pos": "명사",
+		"definition": "용감한 사나이."
+	},
+	{
+		"word": "용부",
+		"num": "02",
+		"origin": "勇赴",
+		"pos": "명사",
+		"definition": "어떤 일을 하기 위하여 용기 있게 떠나감."
+	},
+	{
+		"word": "용부",
+		"num": "03",
+		"origin": "勇婦",
+		"pos": "명사",
+		"definition": "용감한 여인."
+	},
+	{
+		"word": "용부",
+		"num": "04",
+		"origin": "庸夫",
+		"pos": "명사",
+		"definition": "변변하지 못하고 졸렬한 사나이."
+	},
+	{
+		"word": "용부",
+		"num": "05",
+		"origin": "傭夫",
+		"pos": "명사",
+		"definition": "고용살이하는 사나이."
+	},
+	{
+		"word": "용부",
+		"num": "06",
+		"origin": "傭婦",
+		"pos": "명사",
+		"definition": "고용살이하는 아낙."
+	}
+]

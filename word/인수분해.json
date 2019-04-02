@@ -1,0 +1,10 @@
+{
+	"word": "인수^분해",
+	"num": "",
+	"origin": "因數分解",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "정수 또는 정식을 몇 개의 간단한 인수의 곱의 꼴로 바꾸어 나타내는 일. 예를 들면, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x%5E%7B4%7D%2Bx%5E%7B2%7Dy%5E%7B2%7D%2By%5E%7B4%7D%3D%28x%5E%7B2%7D%2Bxy%2By%5E%7B2%7D%29%28x%5E%7B2%7D-xy%2By%5E%7B2%7D%29'>에서 좌항을 우항과 같이 나타내는 것을 이른다."
+}

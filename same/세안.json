@@ -1,0 +1,30 @@
+[
+	{
+		"word": "세-안",
+		"num": "01",
+		"origin": "歲안",
+		"pos": "명사",
+		"definition": "한 해가 끝나기 이전."
+	},
+	{
+		"word": "세안",
+		"num": "02",
+		"origin": "洗眼",
+		"pos": "명사",
+		"definition": "눈을 씻음."
+	},
+	{
+		"word": "세안",
+		"num": "03",
+		"origin": "洗顔",
+		"pos": "명사",
+		"definition": "얼굴을 씻음."
+	},
+	{
+		"word": "세안",
+		"num": "04",
+		"origin": "細案",
+		"pos": "명사",
+		"definition": "꼼꼼하고 자세하여 빈틈이 없는 안건."
+	}
+]

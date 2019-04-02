@@ -1,0 +1,10 @@
+{
+	"word": "심프슨의^법칙",
+	"num": "",
+	"origin": "Simpson의法則",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "함수 <I>f(x)</I>의 <I>x=a</I>에서 <I>b</I>까지의 정적분 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cint_%7Ba%7D%5E%7Bb%7Df%28x%29dx'>의 근삿값을 구하는 방법. 영국의 심프슨(Simpson, T.)이 발견하였다."
+}

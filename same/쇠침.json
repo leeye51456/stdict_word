@@ -1,0 +1,30 @@
+[
+	{
+		"word": "쇠-침",
+		"num": "01",
+		"origin": "",
+		"pos": "명사",
+		"definition": "소의 입에서 질질 흐르는 침."
+	},
+	{
+		"word": "쇠-침",
+		"num": "02",
+		"origin": "쇠鍼",
+		"pos": "명사",
+		"definition": "쇠로 만든 침."
+	},
+	{
+		"word": "쇠-침",
+		"num": "03",
+		"origin": "쇠鍼",
+		"pos": "명사",
+		"definition": "소에게 놓는 침."
+	},
+	{
+		"word": "쇠침",
+		"num": "04",
+		"origin": "衰沈",
+		"pos": "없음",
+		"definition": "‘쇠침하다’의 어근."
+	}
+]

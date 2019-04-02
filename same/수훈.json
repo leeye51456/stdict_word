@@ -1,0 +1,44 @@
+[
+	{
+		"word": "수훈",
+		"num": "01",
+		"origin": "受勳",
+		"pos": "명사",
+		"definition": "훈장을 받음."
+	},
+	{
+		"word": "수훈",
+		"num": "02",
+		"origin": "垂訓",
+		"pos": "명사",
+		"definition": "후세에 가르침을 남김. 또는 그 가르침."
+	},
+	{
+		"word": "수훈",
+		"num": "03",
+		"origin": "首勳",
+		"pos": "명사",
+		"definition": "첫째가는 큰 공훈."
+	},
+	{
+		"word": "수훈",
+		"num": "04",
+		"origin": "殊勳",
+		"pos": "명사",
+		"definition": "뛰어난 공로."
+	},
+	{
+		"word": "수훈",
+		"num": "05",
+		"origin": "授勳",
+		"pos": "명사",
+		"definition": "훈장을 수여함."
+	},
+	{
+		"word": "수훈",
+		"num": "06",
+		"origin": "樹勳",
+		"pos": "명사",
+		"definition": "공훈을 세움."
+	}
+]

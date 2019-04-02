@@ -1,0 +1,30 @@
+[
+	{
+		"word": "대물",
+		"num": "01",
+		"origin": "大物",
+		"pos": "명사",
+		"definition": "큰 물건."
+	},
+	{
+		"word": "대물",
+		"num": "02",
+		"origin": "代物",
+		"pos": "명사",
+		"definition": "대신하여 쓰는 물건."
+	},
+	{
+		"word": "대물",
+		"num": "03",
+		"origin": "貸物",
+		"pos": "명사",
+		"definition": "빌려준 물건."
+	},
+	{
+		"word": "대물",
+		"num": "04",
+		"origin": "對物",
+		"pos": "명사",
+		"definition": "어떠한 물건에 대함. 또는 그 물건."
+	}
+]

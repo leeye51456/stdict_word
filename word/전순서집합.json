@@ -1,0 +1,10 @@
+{
+	"word": "전순서^집합",
+	"num": "",
+	"origin": "全順序集合",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "순서 집합 <I>A</I>의 임의의 두 원소 <I>a, b</I>에 대해서, <I>a</I>에서 <I>b</I>로의 관계 <I>R</I>에 있거나, <I>b</I>에서 <I>a</I>로의 관계 <I>R</I>에 있는 것 가운데 적어도 한쪽이 성립하는 집합."
+}

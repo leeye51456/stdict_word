@@ -1,0 +1,30 @@
+[
+	{
+		"word": "친수",
+		"num": "01",
+		"origin": "親手",
+		"pos": "명사",
+		"definition": "손수 하는 일."
+	},
+	{
+		"word": "친수",
+		"num": "02",
+		"origin": "親水",
+		"pos": "명사",
+		"definition": "물과 친화성이 있는 성질."
+	},
+	{
+		"word": "친수",
+		"num": "03",
+		"origin": "親受",
+		"pos": "명사",
+		"definition": "손수 받음."
+	},
+	{
+		"word": "친수",
+		"num": "04",
+		"origin": "親授",
+		"pos": "명사",
+		"definition": "손수 줌."
+	}
+]

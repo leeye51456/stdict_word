@@ -1,0 +1,30 @@
+[
+	{
+		"word": "취기",
+		"num": "01",
+		"origin": "臭氣",
+		"pos": "명사",
+		"definition": "좋지 않은 냄새."
+	},
+	{
+		"word": "취기",
+		"num": "02",
+		"origin": "翠氣",
+		"pos": "명사",
+		"definition": "푸른 기운."
+	},
+	{
+		"word": "취기",
+		"num": "03",
+		"origin": "醉氣",
+		"pos": "명사",
+		"definition": "술에 취하여 얼근하여진 기운."
+	},
+	{
+		"word": "취기",
+		"num": "04",
+		"origin": "驟起",
+		"pos": "명사",
+		"definition": "자주 일어남."
+	}
+]

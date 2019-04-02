@@ -1,0 +1,30 @@
+[
+	{
+		"word": "주점",
+		"num": "01",
+		"origin": "主點",
+		"pos": "명사",
+		"definition": "중요한 점."
+	},
+	{
+		"word": "주점",
+		"num": "02",
+		"origin": "朱點",
+		"pos": "명사",
+		"definition": "붉은 점. 또는 붉은색으로 찍은 점."
+	},
+	{
+		"word": "주점",
+		"num": "03",
+		"origin": "住店",
+		"pos": "명사",
+		"definition": "여관에 투숙함."
+	},
+	{
+		"word": "주점",
+		"num": "04",
+		"origin": "酒店",
+		"pos": "명사",
+		"definition": "술을 파는 집."
+	}
+]

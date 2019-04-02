@@ -1,0 +1,30 @@
+[
+	{
+		"word": "이국",
+		"num": "01",
+		"origin": "夷國",
+		"pos": "명사",
+		"definition": "오랑캐 나라."
+	},
+	{
+		"word": "이국",
+		"num": "02",
+		"origin": "理國",
+		"pos": "명사",
+		"definition": "나라를 다스림."
+	},
+	{
+		"word": "이국",
+		"num": "03",
+		"origin": "異國",
+		"pos": "명사",
+		"definition": "인정, 풍속 따위가 전혀 다른 남의 나라."
+	},
+	{
+		"word": "이국",
+		"num": "04",
+		"origin": "籬菊",
+		"pos": "명사",
+		"definition": "울 밑에 핀 국화."
+	}
+]

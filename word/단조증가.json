@@ -1,0 +1,10 @@
+{
+	"word": "단조^증가",
+	"num": "",
+	"origin": "單調增加",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "「1」<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x_%7B1%7D%3Cx_%7B2%7D'>이면 반드시 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%28x_%7B1%7D%29%3C+f%28x_%7B2%7D%29'>가 되는 함수의 성질.\n「2」<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=m%3C+n'>이면 반드시 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=a_%7Bm%7D%3C+a_%7Bn%7D'>이 되는 수열의 성질."
+}

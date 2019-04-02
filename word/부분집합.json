@@ -1,0 +1,10 @@
+{
+	"word": "부분^집합",
+	"num": "",
+	"origin": "部分集合",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "두 집합 <I>A</I>와 <I>B</I>가 있고 집합 <I>B</I>의 원소가 모두 집합 <I>A</I>의 원소가 될 때, 집합 <I>B</I>를 집합 <I>A</I>에 상대하여 이르는 말. ‘<I>A⊃B</I>’, ‘<I>B⊂A</I>’로 나타낸다."
+}

@@ -1,0 +1,30 @@
+[
+	{
+		"word": "조무",
+		"num": "01",
+		"origin": "祖武",
+		"pos": "명사",
+		"definition": "조상이 남겨 놓은 업적."
+	},
+	{
+		"word": "조무",
+		"num": "02",
+		"origin": "朝務",
+		"pos": "명사",
+		"definition": "조정의 사무."
+	},
+	{
+		"word": "조무",
+		"num": "03",
+		"origin": "朝霧",
+		"pos": "명사",
+		"definition": "아침에 끼는 안개."
+	},
+	{
+		"word": "조무",
+		"num": "04",
+		"origin": "跳舞",
+		"pos": "명사",
+		"definition": "뛰며 춤을 춤."
+	}
+]

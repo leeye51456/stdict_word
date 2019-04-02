@@ -1,0 +1,30 @@
+[
+	{
+		"word": "비모",
+		"num": "01",
+		"origin": "非謀",
+		"pos": "명사",
+		"definition": "옳지 못한 꾀."
+	},
+	{
+		"word": "비모",
+		"num": "02",
+		"origin": "祕謀",
+		"pos": "명사",
+		"definition": "남모르게 꾸며 낸 꾀."
+	},
+	{
+		"word": "비모",
+		"num": "03",
+		"origin": "費耗",
+		"pos": "명사",
+		"definition": "써서 없앰. 또는 그런 비용."
+	},
+	{
+		"word": "비모",
+		"num": "04",
+		"origin": "鼻毛",
+		"pos": "명사",
+		"definition": "콧구멍 속에 난 털."
+	}
+]

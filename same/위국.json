@@ -1,0 +1,23 @@
+[
+	{
+		"word": "위국",
+		"num": "01",
+		"origin": "危局",
+		"pos": "명사",
+		"definition": "위태로운 시국이나 판국."
+	},
+	{
+		"word": "위국",
+		"num": "02",
+		"origin": "爲國",
+		"pos": "명사",
+		"definition": "나라를 위함."
+	},
+	{
+		"word": "위국",
+		"num": "03",
+		"origin": "衛國",
+		"pos": "명사",
+		"definition": "나라를 지킴."
+	}
+]

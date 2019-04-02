@@ -1,0 +1,23 @@
+[
+	{
+		"word": "독서",
+		"num": "01",
+		"origin": "獨棲",
+		"pos": "명사",
+		"definition": "혼자 삶."
+	},
+	{
+		"word": "독서",
+		"num": "02",
+		"origin": "牘書",
+		"pos": "명사",
+		"definition": "문서나 편지."
+	},
+	{
+		"word": "독서",
+		"num": "03",
+		"origin": "讀書",
+		"pos": "명사",
+		"definition": "책을 읽음."
+	}
+]

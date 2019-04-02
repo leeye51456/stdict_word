@@ -1,0 +1,10 @@
+{
+	"word": "라플라스^변환",
+	"num": "",
+	"origin": "Laplace變換",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "구간 [0,+∞]에서 정의된 함수 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%28t%29'>에 대해 이상 적분 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=F%28s%29%3D%5Cint_%7B0%7D%5E%7B%5Cinfty+%7Df%28t%29e%5E%7B-st%7Ddt%28s%3E+0%29'>이 존재할 때, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%28t%29'>에 상대하여 이르는 말."
+}

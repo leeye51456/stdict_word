@@ -1,0 +1,37 @@
+[
+	{
+		"word": "차-수",
+		"num": "01",
+		"origin": "차水",
+		"pos": "명사",
+		"definition": "「1」차를 달이는 데에 쓰는 물. 「2」차를 달인 물."
+	},
+	{
+		"word": "차수",
+		"num": "02",
+		"origin": "叉手",
+		"pos": "명사",
+		"definition": "두 손을 어긋매껴 마주 잡음."
+	},
+	{
+		"word": "차수",
+		"num": "03",
+		"origin": "次數",
+		"pos": "명사",
+		"definition": "「1」단항식 안에 포함된 문자 인수(因數)의 개수. <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:88"
+	},
+	{
+		"word": "차수",
+		"num": "04",
+		"origin": "借手",
+		"pos": "명사",
+		"definition": "남의 일손을 빌림."
+	},
+	{
+		"word": "차수",
+		"num": "05",
+		"origin": "差數",
+		"pos": "명사",
+		"definition": "차가 생긴 수."
+	}
+]

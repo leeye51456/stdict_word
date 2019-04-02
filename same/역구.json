@@ -1,0 +1,30 @@
+[
+	{
+		"word": "역구",
+		"num": "01",
+		"origin": "力求",
+		"pos": "명사",
+		"definition": "힘써 구함."
+	},
+	{
+		"word": "역구",
+		"num": "02",
+		"origin": "力救",
+		"pos": "명사",
+		"definition": "힘써 구원함."
+	},
+	{
+		"word": "역구",
+		"num": "03",
+		"origin": "歷久",
+		"pos": "명사",
+		"definition": "오랜 세월을 겪어 옴."
+	},
+	{
+		"word": "역구",
+		"num": "04",
+		"origin": "驛區",
+		"pos": "명사",
+		"definition": "역이 차지하고 있는 일정한 구역의 안."
+	}
+]

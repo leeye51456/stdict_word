@@ -1,0 +1,10 @@
+{
+	"word": "매클로린-급수",
+	"num": "",
+	"origin": "Maclaurin級數",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "함수 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%28x%29'>에 대한 급수 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=f%280%29'>+ <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cfrac%7Bf%5E%7B%281%29%7D%280%29%7D%7B1%21%7Dx'>+<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cfrac%7Bf%5E%7B%282%29%7D%280%29%7D%7B2%21%7Dx%5E%7B2%7D'>+ …를 이르는 말. 영국의 수학자 매클로린(Maclaurin, C.)의 이름에서 유래한다."
+}

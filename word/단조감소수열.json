@@ -1,0 +1,10 @@
+{
+	"word": "단조^감소수열",
+	"num": "",
+	"origin": "單調減少數列",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "이웃하는 두 번호에서 뒤의 번호에 대한 항이 앞의 번호에 대한 항보다 작거나 같은 수열. <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=a_%7Bn%7D%5Cgeq+a_%7Bn%2B1%7D%28n%3D1%2C2%2C%5Ccdots%29'>인 수열 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=a_%7B1%7D%2Ca_%7B2%7D%2C%5Ccdots%2Ca_%7Bn%7D%2C%5Ccdots'>을 이른다."
+}

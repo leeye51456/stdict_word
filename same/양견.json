@@ -1,0 +1,37 @@
+[
+	{
+		"word": "양견",
+		"num": "01",
+		"origin": "良犬",
+		"pos": "명사",
+		"definition": "좋은 개."
+	},
+	{
+		"word": "양견",
+		"num": "02",
+		"origin": "兩肩",
+		"pos": "명사",
+		"definition": "양쪽의 두 어깨."
+	},
+	{
+		"word": "양견",
+		"num": "03",
+		"origin": "洋犬",
+		"pos": "명사",
+		"definition": "서양 품종의 개."
+	},
+	{
+		"word": "양-견",
+		"num": "04",
+		"origin": "楊堅",
+		"pos": "명사",
+		"definition": "중국 수나라의 제1대 황제인 ‘문제’의 본명."
+	},
+	{
+		"word": "양견",
+		"num": "05",
+		"origin": "養犬",
+		"pos": "명사",
+		"definition": "개를 기름. 또는 그 개."
+	}
+]

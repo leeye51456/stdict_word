@@ -1,0 +1,30 @@
+[
+	{
+		"word": "제위",
+		"num": "01",
+		"origin": "帝位",
+		"pos": "명사",
+		"definition": "제왕의 자리."
+	},
+	{
+		"word": "제위",
+		"num": "02",
+		"origin": "帝威",
+		"pos": "명사",
+		"definition": "제왕의 위엄."
+	},
+	{
+		"word": "제위",
+		"num": "03",
+		"origin": "祭位",
+		"pos": "명사",
+		"definition": "제사를 받는 신위."
+	},
+	{
+		"word": "제위",
+		"num": "04",
+		"origin": "諸位",
+		"pos": "대명사",
+		"definition": "‘여러분’을 문어적으로 이르는 말."
+	}
+]

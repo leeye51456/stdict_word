@@ -1,0 +1,10 @@
+{
+	"word": "수열",
+	"num": "",
+	"origin": "數列",
+	"pronunciation": "수ː열",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "일정한 규칙에 따라 한 줄로 배열된 수의 열. <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=a%5E%7B1%7D%2C+a%5E%7B2%7D%2C+a%5E%7B3%7D'>……<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=a%5E%7Bn%7D'>의 꼴로 배열한 것으로, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cleft+%5C%7B+a%5E%7Bn%7D+%5Cright+%5C%7D'>으로 나타낸다. 등차수열, 등비수열, 조화수열 따위가 있다."
+}

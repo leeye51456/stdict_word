@@ -1,0 +1,65 @@
+[
+	{
+		"word": "전상",
+		"num": "01",
+		"origin": "全喪",
+		"pos": "명사",
+		"definition": "모두 잃음."
+	},
+	{
+		"word": "전상",
+		"num": "02",
+		"origin": "全象",
+		"pos": "명사",
+		"definition": "전체의 형상."
+	},
+	{
+		"word": "전상",
+		"num": "03",
+		"origin": "典常",
+		"pos": "명사",
+		"definition": "늘 지켜야 하는, 변하지 아니하는 도리(道理)."
+	},
+	{
+		"word": "전상",
+		"num": "04",
+		"origin": "傳觴",
+		"pos": "명사",
+		"definition": "술자리 따위에서 상대편에게 잔을 전함."
+	},
+	{
+		"word": "전상",
+		"num": "05",
+		"origin": "殿上",
+		"pos": "명사",
+		"definition": "전각이나 궁전의 위."
+	},
+	{
+		"word": "전상",
+		"num": "06",
+		"origin": "箭狀",
+		"pos": "명사",
+		"definition": "화살 모양."
+	},
+	{
+		"word": "전상",
+		"num": "07",
+		"origin": "戰狀",
+		"pos": "명사",
+		"definition": "전쟁의 실제 상황."
+	},
+	{
+		"word": "전상",
+		"num": "08",
+		"origin": "戰傷",
+		"pos": "명사",
+		"definition": "전쟁터에서 적과 싸우다 상처를 입음. 또는 그 상처."
+	},
+	{
+		"word": "전상",
+		"num": "09",
+		"origin": "轉相",
+		"pos": "명사",
+		"definition": "물질계의 상이 바뀜."
+	}
+]

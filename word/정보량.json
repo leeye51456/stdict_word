@@ -1,0 +1,10 @@
+{
+	"word": "정보-량",
+	"num": "",
+	"origin": "情報量",
+	"pronunciation": "정보량",
+	"conjugation": "",
+	"relation": "",
+	"pos": "명사",
+	"definition": "어느 사상(事象)의 발생을 인지하였을 때 얻는 정보의 크기를 나타내는 값. 확률 <I>P</I>인 사상이 일어났다는 것을 알았을 때 얻는 정보량은 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=-log_%7Ba%7Dp'>인데, 이것을 <I>a</I>를 밑으로 하는 정보량이라 한다."
+}

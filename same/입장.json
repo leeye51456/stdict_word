@@ -1,0 +1,30 @@
+[
+	{
+		"word": "입장",
+		"num": "01",
+		"origin": "入丈",
+		"pos": "명사",
+		"definition": "장가를 듦."
+	},
+	{
+		"word": "입장",
+		"num": "02",
+		"origin": "入場",
+		"pos": "명사",
+		"definition": "장내(場內)로 들어가는 것."
+	},
+	{
+		"word": "입장",
+		"num": "03",
+		"origin": "入葬",
+		"pos": "명사",
+		"definition": "장사(葬事)를 지냄."
+	},
+	{
+		"word": "입장",
+		"num": "04",
+		"origin": "立場",
+		"pos": "명사",
+		"definition": "당면하고 있는 상황."
+	}
+]

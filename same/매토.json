@@ -1,0 +1,23 @@
+[
+	{
+		"word": "매토",
+		"num": "01",
+		"origin": "埋土",
+		"pos": "명사",
+		"definition": "땅을 메움."
+	},
+	{
+		"word": "매토",
+		"num": "02",
+		"origin": "買土",
+		"pos": "명사",
+		"definition": "땅을 삼."
+	},
+	{
+		"word": "매토",
+		"num": "03",
+		"origin": "賣土",
+		"pos": "명사",
+		"definition": "땅을 팖."
+	}
+]

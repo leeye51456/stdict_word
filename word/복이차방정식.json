@@ -1,0 +1,10 @@
+{
+	"word": "복이차^방정식",
+	"num": "",
+	"origin": "複二次方程式",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "적당한 치환에 의하여 이차 방정식으로 변형할 수 있는 사차 방정식. 예를 들어, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%28x%5E%7B2%7D-2x%29%5E%7B2%7D-2%28x%5E%7B2%7D-2x%29%5E%7B2%7D-3%3D0'>은 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%28x%5E%7B2%7D-2x%29'>를 <I>X</I>로 치환하여, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=X%5E%7B2%7D-2X%5E%7B2%7D-3%3D0'>으로 만들면 근을 쉽게 구할 수 있다."
+}

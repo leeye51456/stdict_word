@@ -1,0 +1,30 @@
+[
+	{
+		"word": "내한",
+		"num": "01",
+		"origin": "來翰",
+		"pos": "명사",
+		"definition": "다른 사람에게서 온 편지."
+	},
+	{
+		"word": "내한",
+		"num": "02",
+		"origin": "來韓",
+		"pos": "명사",
+		"definition": "외국인이 한국에 옴."
+	},
+	{
+		"word": "내한",
+		"num": "03",
+		"origin": "耐旱",
+		"pos": "명사",
+		"definition": "가물을 견딤."
+	},
+	{
+		"word": "내한",
+		"num": "04",
+		"origin": "耐寒",
+		"pos": "명사",
+		"definition": "추위를 견딤."
+	}
+]

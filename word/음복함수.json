@@ -1,0 +1,10 @@
+{
+	"word": "음복^함수",
+	"num": "",
+	"origin": "陰伏函數",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "한 변수가 다른 변수의 식으로 표현된 것이 아니라, 두 변수가 복합된 형태로 표현된 함수. <I>F(x, y)=0</I>으로 표시할 때 함수 <I>y</I>는 <I>x</I>의 음함수라고 한다. 예를 들면 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x%5E%7B2%7D%2By%5E%7B2%7D-1%3D0'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x%5E%7B2%7D%2B2xy%2By%5E%7B2%7D%3D1'> 따위가 있다."
+}

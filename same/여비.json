@@ -1,0 +1,30 @@
+[
+	{
+		"word": "여비",
+		"num": "01",
+		"origin": "女婢",
+		"pos": "명사",
+		"definition": "여자 종."
+	},
+	{
+		"word": "여비",
+		"num": "02",
+		"origin": "旅費",
+		"pos": "명사",
+		"definition": "여행하는 데에 드는 비용."
+	},
+	{
+		"word": "여비",
+		"num": "03",
+		"origin": "餘匪",
+		"pos": "명사",
+		"definition": "소탕되고 남은 비적(匪賊)."
+	},
+	{
+		"word": "여비",
+		"num": "04",
+		"origin": "餘備",
+		"pos": "명사",
+		"definition": "넉넉하게 갖춤."
+	}
+]

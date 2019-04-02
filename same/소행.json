@@ -1,0 +1,30 @@
+[
+	{
+		"word": "소행",
+		"num": "01",
+		"origin": "所行",
+		"pos": "명사",
+		"definition": "이미 해 놓은 일이나 짓."
+	},
+	{
+		"word": "소행",
+		"num": "02",
+		"origin": "宵行",
+		"pos": "명사",
+		"definition": "밤길을 감."
+	},
+	{
+		"word": "소행",
+		"num": "03",
+		"origin": "素行",
+		"pos": "명사",
+		"definition": "평소의 행실."
+	},
+	{
+		"word": "소행",
+		"num": "04",
+		"origin": "溯行",
+		"pos": "명사",
+		"definition": "물의 흐름을 거슬러 올라감."
+	}
+]

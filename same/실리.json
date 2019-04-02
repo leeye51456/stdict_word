@@ -1,0 +1,30 @@
+[
+	{
+		"word": "실리",
+		"num": "01",
+		"origin": "失利",
+		"pos": "명사",
+		"definition": "손해를 봄."
+	},
+	{
+		"word": "실리",
+		"num": "02",
+		"origin": "失離",
+		"pos": "명사",
+		"definition": "죽어서 이별함."
+	},
+	{
+		"word": "실리",
+		"num": "03",
+		"origin": "實利",
+		"pos": "명사",
+		"definition": "실제로 얻는 이익."
+	},
+	{
+		"word": "실리",
+		"num": "04",
+		"origin": "實理",
+		"pos": "명사",
+		"definition": "실제의 이치나 도리."
+	}
+]

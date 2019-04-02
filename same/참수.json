@@ -1,0 +1,23 @@
+[
+	{
+		"word": "참-수",
+		"num": "01",
+		"origin": "참數",
+		"pos": "명사",
+		"definition": "일을 하다가 쉬는 번수."
+	},
+	{
+		"word": "참수",
+		"num": "02",
+		"origin": "斬首",
+		"pos": "명사",
+		"definition": "목을 벰."
+	},
+	{
+		"word": "참수",
+		"num": "03",
+		"origin": "慙羞",
+		"pos": "명사",
+		"definition": "매우 부끄러워함."
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"word": "진살",
+		"num": "01",
+		"origin": "進殺",
+		"pos": "명사",
+		"definition": "나아가 무찌름."
+	},
+	{
+		"word": "진살",
+		"num": "02",
+		"origin": "盡殺",
+		"pos": "명사",
+		"definition": "모두 다 죽임."
+	},
+	{
+		"word": "진살",
+		"num": "03",
+		"origin": "震殺",
+		"pos": "명사",
+		"definition": "사정없이 죽임."
+	}
+]

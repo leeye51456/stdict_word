@@ -1,0 +1,23 @@
+[
+	{
+		"word": "갱문",
+		"num": "01",
+		"origin": "坑門",
+		"pos": "명사",
+		"definition": "갱도 출입구에 설치해 놓은 문."
+	},
+	{
+		"word": "갱문",
+		"num": "02",
+		"origin": "更問",
+		"pos": "명사",
+		"definition": "다시 물음."
+	},
+	{
+		"word": "갱문",
+		"num": "03",
+		"origin": "更聞",
+		"pos": "명사",
+		"definition": "다시 들음."
+	}
+]

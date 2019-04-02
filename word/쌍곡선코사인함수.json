@@ -1,0 +1,10 @@
+{
+	"word": "쌍곡선^코사인^함수",
+	"num": "",
+	"origin": "雙曲線cosine函數",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=cos+hx%3D%28%5Ctheta+%5E%7Bx%7D-%5Ctheta+%5E%7B-x%7D%29%2F2'>로 정의된 함수. 삼각 함수와 유사한 성질을 가진 함수로서, 쌍곡선 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x%5E%7B2%7D-y%5E%7B2%7D%3D1'> 위의 점의 <I>x</I> 좌표와 관련된 함수이다."
+}

@@ -1,0 +1,23 @@
+[
+	{
+		"word": "베르누이",
+		"num": "01",
+		"origin": "Bernoulli, Jakob",
+		"pos": "명사",
+		"definition": "스위스의 물리학자ㆍ수학자(1654~1705). 확률론, 미적분학의 발전에 공헌하였다. 저서에 ≪추론의 예술≫이 있다."
+	},
+	{
+		"word": "베르누이",
+		"num": "02",
+		"origin": "Bernoulli, Johann",
+		"pos": "명사",
+		"definition": "스위스의 수학자(1667~1748). 베르누이(Bernoulli, Jakob)의 동생으로 미적분학, 미분 방정식, 최속 강하선 따위에서 업적이 크다."
+	},
+	{
+		"word": "베르누이",
+		"num": "03",
+		"origin": "Bernoulli, Daniel",
+		"pos": "명사",
+		"definition": "스위스의 이론 물리학자(1700~1782). 베르누이(Bernoulli, Jean)의 아들로 1738년에 ‘베르누이의 정리’를 발표, 유체 역학의 기초적 개념을 확립하였다. 저서에"
+	}
+]

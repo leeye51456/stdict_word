@@ -1,0 +1,30 @@
+[
+	{
+		"word": "해심",
+		"num": "01",
+		"origin": "垓心",
+		"pos": "명사",
+		"definition": "포위된 한가운데."
+	},
+	{
+		"word": "해심",
+		"num": "02",
+		"origin": "害心",
+		"pos": "명사",
+		"definition": "해치려는 마음."
+	},
+	{
+		"word": "해심",
+		"num": "03",
+		"origin": "海心",
+		"pos": "명사",
+		"definition": "바다의 한가운데."
+	},
+	{
+		"word": "해심",
+		"num": "04",
+		"origin": "海深",
+		"pos": "명사",
+		"definition": "바다의 깊이."
+	}
+]

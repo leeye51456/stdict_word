@@ -1,0 +1,30 @@
+[
+	{
+		"word": "궁수",
+		"num": "01",
+		"origin": "弓手",
+		"pos": "명사",
+		"definition": "활 쏘는 일을 맡아 하는 군사."
+	},
+	{
+		"word": "궁수",
+		"num": "02",
+		"origin": "宮繡",
+		"pos": "명사",
+		"definition": "궁녀가 놓은 자수."
+	},
+	{
+		"word": "궁수",
+		"num": "03",
+		"origin": "窮愁",
+		"pos": "명사",
+		"definition": "곤궁하여 생기는 근심."
+	},
+	{
+		"word": "궁수",
+		"num": "04",
+		"origin": "窮數",
+		"pos": "명사",
+		"definition": "궁핍한 운수."
+	}
+]

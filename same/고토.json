@@ -1,0 +1,30 @@
+[
+	{
+		"word": "고토",
+		"num": "01",
+		"origin": "古土",
+		"pos": "명사",
+		"definition": "옛날에 영토였던 땅."
+	},
+	{
+		"word": "고토",
+		"num": "02",
+		"origin": "苦土",
+		"pos": "명사",
+		"definition": "‘산화 마그네슘’을 일상적으로 이르는 말."
+	},
+	{
+		"word": "고토",
+		"num": "03",
+		"origin": "故土",
+		"pos": "명사",
+		"definition": "고향 땅."
+	},
+	{
+		"word": "고토",
+		"num": "04",
+		"origin": "膏土",
+		"pos": "명사",
+		"definition": "기름진 땅."
+	}
+]

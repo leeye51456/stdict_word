@@ -1,0 +1,10 @@
+{
+	"word": "로바쳅스키^기하학",
+	"num": "",
+	"origin": "Lobachevsky幾何學",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "l을 임의의 직선, A를 l 밖의 한 점이라 할 때, l과 A로 정해지는 평면 안에, A를 지나고 l과 만나지 않는 두 개의 반직선 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Coverline%7BAM%7D'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Coverline%7BAN%7D'>이 존재하고, 이들은 A에서 l에 내린 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Cperp+%5Coverline%7BAH%7D'>에 관하여 대칭이며, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Coverline%7BAM%7D'>, <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=%5Coverline%7BAN%7D'>은 일직선이 되지 않지만 ∠MAN의 안쪽에 A로부터 그은 반직선은 모두 한과 만나는 공간을 대상으로 하는 비(非)유클리드 기하학."
+}

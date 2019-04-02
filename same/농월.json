@@ -1,0 +1,23 @@
+[
+	{
+		"word": "농월",
+		"num": "01",
+		"origin": "弄月",
+		"pos": "명사",
+		"definition": "달을 바라보고 즐김."
+	},
+	{
+		"word": "농월",
+		"num": "02",
+		"origin": "農月",
+		"pos": "명사",
+		"definition": "농사일이 바쁜 달."
+	},
+	{
+		"word": "농월",
+		"num": "03",
+		"origin": "朧月",
+		"pos": "명사",
+		"definition": "흐린 달."
+	}
+]

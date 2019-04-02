@@ -1,0 +1,30 @@
+[
+	{
+		"word": "구내",
+		"num": "01",
+		"origin": "久耐",
+		"pos": "명사",
+		"definition": "오래 견딤."
+	},
+	{
+		"word": "구내",
+		"num": "02",
+		"origin": "口內",
+		"pos": "명사",
+		"definition": "입의 안."
+	},
+	{
+		"word": "구내",
+		"num": "03",
+		"origin": "區內",
+		"pos": "명사",
+		"definition": "일정한 구역의 안."
+	},
+	{
+		"word": "구내",
+		"num": "04",
+		"origin": "構內",
+		"pos": "명사",
+		"definition": "큰 건물이나 시설 또는 부지(敷地)의 안."
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"word": "조용",
+		"num": "01",
+		"origin": "",
+		"pos": "없음",
+		"definition": "‘조용하다01’의 어근."
+	},
+	{
+		"word": "조용",
+		"num": "02",
+		"origin": "刁踊",
+		"pos": "명사",
+		"definition": "물건값이 뛰어오름."
+	},
+	{
+		"word": "조용",
+		"num": "03",
+		"origin": "造用",
+		"pos": "명사",
+		"definition": "만들어 씀."
+	},
+	{
+		"word": "조용",
+		"num": "04",
+		"origin": "調用",
+		"pos": "명사",
+		"definition": "벼슬아치로 등용함."
+	}
+]

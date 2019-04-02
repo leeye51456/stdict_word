@@ -1,0 +1,10 @@
+{
+	"word": "페르마의^정리",
+	"num": "",
+	"origin": "Fermat의定理",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "1637년에 프랑스의 수학자 페르마가 발견한 정리. 정수 <I>a</I>가 소수 <I>p</I>의 배수가 아니라면 ‘<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=a%5E%7Bp-1%7D-1'>’은 <I>p</I>로 나누어 떨어진다는 소정리와, <I>n</I>이 3 이상의 자연수일 때 <img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=x%5E%7Bn%7D%2By%5E%7Bn%7D%3Dz%5E%7Bn%7D%28x%2Cy%2Cz%5Cneq+0%29'>이 되는 정수 <I>x, y, z</I>는 없다는 대정리가 있다. 1995년에 와일스에 의하여 증명되었다."
+}

@@ -1,0 +1,23 @@
+[
+	{
+		"word": "탄산",
+		"num": "01",
+		"origin": "呑酸",
+		"pos": "명사",
+		"definition": "위에 신물이 고여서 속이 쓰린 증세. 위산 과다증일 때에 흔히 나타난다."
+	},
+	{
+		"word": "탄산",
+		"num": "02",
+		"origin": "炭山",
+		"pos": "명사",
+		"definition": "석탄을 캐내는 광산."
+	},
+	{
+		"word": "탄산",
+		"num": "03",
+		"origin": "炭酸",
+		"pos": "명사",
+		"definition": "이산화 탄소가 물에 녹아서 생기는 약한 산(酸). 수용액에서만 존재한다. 화학식은 H<sub style='font-size:11px;'>2</sub>CO<sub style='fon"
+	}
+]

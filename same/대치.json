@@ -1,0 +1,37 @@
+[
+	{
+		"word": "대치",
+		"num": "01",
+		"origin": "大治",
+		"pos": "명사",
+		"definition": "치안이 잘 유지됨."
+	},
+	{
+		"word": "대치",
+		"num": "02",
+		"origin": "大熾",
+		"pos": "없음",
+		"definition": "‘대치하다02’의 어근."
+	},
+	{
+		"word": "대치",
+		"num": "03",
+		"origin": "代置",
+		"pos": "명사",
+		"definition": "다른 것으로 바꾸어 놓음."
+	},
+	{
+		"word": "대치",
+		"num": "04",
+		"origin": "對峙",
+		"pos": "명사",
+		"definition": "서로 맞서서 버팀."
+	},
+	{
+		"word": "대치",
+		"num": "05",
+		"origin": "對置",
+		"pos": "명사",
+		"definition": "마주 놓음."
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"word": "적채",
+		"num": "01",
+		"origin": "摘採",
+		"pos": "명사",
+		"definition": "무엇을 따거나 캠."
+	},
+	{
+		"word": "적채",
+		"num": "02",
+		"origin": "敵砦",
+		"pos": "명사",
+		"definition": "적의 성과 요새."
+	},
+	{
+		"word": "적채",
+		"num": "03",
+		"origin": "敵寨",
+		"pos": "명사",
+		"definition": "적의 보루."
+	},
+	{
+		"word": "적채",
+		"num": "04",
+		"origin": "積債",
+		"pos": "명사",
+		"definition": "오랫동안 쌓이고 쌓여 많아진 빚."
+	}
+]

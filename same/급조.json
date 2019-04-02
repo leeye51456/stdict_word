@@ -1,0 +1,30 @@
+[
+	{
+		"word": "급조",
+		"num": "01",
+		"origin": "急造",
+		"pos": "명사",
+		"definition": "급히 만듦."
+	},
+	{
+		"word": "급조",
+		"num": "02",
+		"origin": "急潮",
+		"pos": "명사",
+		"definition": "급히 흐르는 조류."
+	},
+	{
+		"word": "급조",
+		"num": "03",
+		"origin": "急躁",
+		"pos": "없음",
+		"definition": "‘급조하다02’의 어근."
+	},
+	{
+		"word": "급조",
+		"num": "04",
+		"origin": "給助",
+		"pos": "명사",
+		"definition": "금품을 주어 도움."
+	}
+]

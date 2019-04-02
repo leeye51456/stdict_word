@@ -1,0 +1,10 @@
+{
+	"word": "헤론의^공식",
+	"num": "",
+	"origin": "Heron의公式",
+	"pronunciation": "",
+	"conjugation": "",
+	"relation": "",
+	"pos": "없음",
+	"definition": "삼각형의 면적을 세 변의 길이로부터 구하는 공식. 삼각형의 면적을 <I>S</I>, 세 변의 길이를 각각 <I>a, b, c</I>라 하고 <I>s =(a+b+c)/2</I>라고 하면, ‘<img style=\"vertical-align: middle;\" src='http://stdmgt.korean.go.kr:8899/dictionary/compilation/popup/formula.do?latex=S%3D%5Csqrt%7Bs%28s-a%29%28s-b%29%28s-c%29%7D'>’이다."
+}
